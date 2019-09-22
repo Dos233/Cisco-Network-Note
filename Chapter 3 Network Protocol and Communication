@@ -1,0 +1,5 @@
+How to know a network ip : just know ip address and subnet mask.
+
+How to save ip address of ipv4 :
+Method 1 : the LAN will save many ip address, because the the LAN connect to the router that its interface has unique ip address,
+and then all hosts in the LAN can use local ip. The router's ip will represents all hosts in different ports.    
