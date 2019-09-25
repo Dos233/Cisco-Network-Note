@@ -1,5 +1,12 @@
-How to know a network ip : just know ip address and subnet mask.
+How to know a network ip(not host ip) : just know ip address and subnet mask.
 
-How to save ip address of ipv4 :
+the range of ip address : 0~255 (2^8)
+DNS: translate name ip address
+
+How to save the number of ip address of ipv4 :
 Method 1 : the LAN will save many ip address, because the the LAN connect to the router that its interface has unique ip address,
 and then all hosts in the LAN can use local ip. The router's ip will represents all hosts in different ports.    
+
+Every SVI is used by remoting computer,the default interface is vlan 1 (Notice:the cisco ios layer 2 switch did't need ip address,but
+if you want to remote the switch,you should allocate an ip address to the vlan which is related to vlan)
+
