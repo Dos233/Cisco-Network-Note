@@ -1,0 +1,5 @@
+For physical layer:
+the connector as follows:
+a) Ethernet straight-through: (pc to switch and switch to router:we just focus on 1 to 3(3 to 1),2 to 6(6 to 2))
+b) Ethernet crossover: pc to pc, switch to switch and router to router (Focus on ifferent port)
+
