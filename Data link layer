@@ -1,0 +1,7 @@
+Road:
+1.dedicated road
+2.shared road
+
+network link:
+1.dedicated
+2.shared: a) contention based protocol (CSMA/CA) b) control access protocol
