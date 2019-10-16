@@ -7,3 +7,14 @@ network link:
 2.shared: a) contention based protocol (CSMA/CA) b) control access protocol (token passing)
 
 The ethernet and csma/ca are used by wlan.
+
+Physical WAN topologies:
+1.point to point 
+2.star(hub and spoke topology)
+3.Full mesh
+
+Physical LAN topologies:
+1.star topology
+2.extended topology
+3.bus topology
+4.ring
