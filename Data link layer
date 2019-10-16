@@ -4,6 +4,6 @@ Road:
 
 network link:
 1.dedicated
-2.shared: a) contention based protocol (CSMA/CA) b) control access protocol
+2.shared: a) contention based protocol (CSMA/CA) b) control access protocol (token passing)
 
 The ethernet and csma/ca are used by wlan.
