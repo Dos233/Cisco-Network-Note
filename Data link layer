@@ -15,6 +15,6 @@ Physical WAN topologies:
 
 Physical LAN topologies:
 1.star topology
-2.extended topology
+2.star extended topology
 3.bus topology
-4.ring
+4.ring topology
